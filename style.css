@@ -76,6 +76,17 @@ ul li a#you:hover {
   transition: .3s;
 }
 
+ul li a#mail {
+  color: black;
+  transition: .3s;
+}
+
+ul li a#mail:hover {
+  color: blue;
+  text-decoration: none;
+  transition: .3s;
+}
+
 ul li a#you1 {
   color: black;
   transition: .3s;
