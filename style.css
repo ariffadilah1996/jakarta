@@ -142,7 +142,7 @@ ul.hilang li {
 }
 
 .hijau-nlec {
-  color: rgb(124, 216, 89);
+  color:  #189A07;
 }
 
 .orentua {
@@ -174,13 +174,13 @@ ul.hilang li {
 }
 
 .bg-hijau {
-  background-color: rgb(124, 216, 89);
+  background-color: #189A07;
   width: 100%;
   height: auto;
 }
 
 .bg-hijau-navbar{
-  background-color: rgb(124, 216, 89);
+  background-color: #189A07 ;
 }
 
 .merah-nlec {
@@ -198,7 +198,7 @@ ul.hilang li {
 }
 
 .hijaunlec{
-  color:rgb(124, 216, 89) ;
+  color: #189A07;
 }
 
 
@@ -226,7 +226,7 @@ ul.hilang li {
 .table-hijaunlec,
 .table-hijaunlec>th,
 .table-hijaunlec>td {
-  background-color: rgb(124, 216, 89);
+  background-color:  #189A07;
 }
 
 .table-hijaunlec th,
@@ -241,7 +241,7 @@ ul.hilang li {
 }
 
 .transparan-hijau {
-  background-color: rgb(124, 216, 89);
+  background-color:  #189A07;
 }
 
 .transparan-hitam {
@@ -589,7 +589,7 @@ footer {
 }
 
 .bg-nlec {
-  background-color: #4CED69 !important;
+  background-color:  #189A07!important;
 }
 
 .wait {
